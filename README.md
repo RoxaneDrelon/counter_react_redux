@@ -1,5 +1,9 @@
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
+## State.JSON
+
+Available right here, at the same level than this README.
+
 ## Available Scripts
 
 In the project directory, you can run:
